@@ -14,7 +14,7 @@ Aqui estão os principais projetos acadêmicos e códigos desenvolvidos ao longo
 
 * 🔗 [**Meu Portfólio Web**](https://oarthur0001.github.io/github-page/) - Minha página pessoal com meus projetos e informações de contato.
 * 🔗 [**Códigos em Python (Google Colab)**](https://colab.research.google.com/drive/1Zzx_c3U2p2AbHXK4umbrsyuLjldPkj7r?usp=sharing) - Notebook interativo com desenvolvimento de algoritmos.
-* 🔗 [**Projeto de Banco de Dados**](./banco-de-dados) - Scripts SQL e modelagem de dados desenvolvidos no MySQL Workbench.
+* 🔗 [**Projeto de Banco de Dados**](./Banco-de-Dados-I) - Scripts SQL e modelagem de dados desenvolvidos no MySQL Workbench.
 * 🔗 [**PortfolioHUB**](https://github.com/oarthur0001/portfolio-hub-ceub) - Repositório central de implantação da disciplina Bootcamp I.
 
 ## 📊 Estatísticas e Atividade
