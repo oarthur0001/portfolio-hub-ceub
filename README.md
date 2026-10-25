@@ -12,9 +12,10 @@ Apaixonado por tecnologia e desenvolvimento, sempre aprendendo, criando projetos
 ## 📁 Meus Trabalhos e Projetos
 Aqui estão os principais projetos acadêmicos e códigos desenvolvidos ao longo do curso:
 
-* 🔗 [**Nome do Primeiro Trabalho**](./nome-do-arquivo-ou-pasta-1) - Breve descrição do que o sistema faz (ex: Site criado com HTML e CSS).
-* 🔗 [**Nome do Segundo Trabalho**](./nome-do-arquivo-ou-pasta-2) - Breve descrição do projeto (ex: Algoritmo de cálculo estruturado em Python).
-* 🔗 [**PortfolioHUB**](https://github.com/seu-usuario/portfolio-hub-ceub) - Repositório central de implantação da disciplina Bootcamp I.
+* 🔗 [**Meu Portfólio Web**](https://oarthur0001.github.io/github-page/) - Minha página pessoal com meus projetos e informações de contato.
+* 🔗 [**Códigos em Python (Google Colab)**](https://colab.research.google.com/drive/1Zzx_c3U2p2AbHXK4umbrsyuLjldPkj7r?usp=sharing) - Notebook interativo com desenvolvimento de algoritmos.
+* 🔗 [**Projeto de Banco de Dados**](./banco-de-dados) - Scripts SQL e modelagem de dados desenvolvidos no MySQL Workbench.
+* 🔗 [**PortfolioHUB**](https://github.com/oarthur0001/portfolio-hub-ceub) - Repositório central de implantação da disciplina Bootcamp I.
 
 ## 📊 Estatísticas e Atividade
 <div align="center">
